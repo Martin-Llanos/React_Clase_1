@@ -6,7 +6,7 @@ export function LikeButton(props) {
   return (
     <Button
       onClick={() => setMeGusta(!meGusta)}
-      className={meGusta ? 'button-blue' : 'button-white'}
+      className={meGusta ? 'button-darkturquoise' : 'button-gray'}
     >
       {meGusta ? 'Le diste me gusta!' : 'Dale me gusta'}
     </Button>
