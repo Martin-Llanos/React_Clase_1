@@ -7,12 +7,12 @@
     transition: all 0.2s ease-in-out;
   }
   
-  .button-blue {
-    background: blue;
+  .button-skyblue {
+    background: skyblue;
   }
   
-  .button-white {
-    background: white;
+  .button-gray {
+    background: gray;
   }
   
   .article {
@@ -46,7 +46,7 @@
     display: flex;
     padding: 20px;
     border-radius: 10px;
-    background: rgb(141, 223, 162);
+    background: rgb(185, 242, 255);
   }
   
   .tarjeta-img {
@@ -69,11 +69,11 @@
     border-radius: 5px;
     border-style: none;
     padding: 5px;
-    background: lightgray;
+    background: darkgray;
   }
   
   .input-match {
-    background: lightcoral;
+    background: red;
   }
   
   .post {
